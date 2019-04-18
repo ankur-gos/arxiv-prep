@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+arXiv_src_manifest.xml
+*.tar
+output_src
+output_pdfs
+src_tars
